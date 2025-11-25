@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="80" height="40">
+  <!-- Red bars -->
+  <rect width="250" height="500" fill="#FF0000"/>
+  <rect x="750" width="250" height="500" fill="#FF0000"/>
+
+  <!-- White center -->
+  <rect x="250" width="500" height="500" fill="#FFFFFF"/>
+
+  <!-- Maple Leaf -->
+  <g transform="translate(500, 250)">
+    <path fill="#FF0000" d="M 0,-83 l -10,30 -25,-5 10,25 -20,10 25,5 -5,25 15,-20 15,20 -5,-25 25,-5 -20,-10 10,-25 -25,5 z"/>
+    <rect x="-6" y="-40" width="12" height="80" fill="#FF0000"/>
+  </g>
+</svg>
