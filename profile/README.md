@@ -2,18 +2,7 @@
 
 <div align="center">
 
-<svg width="500" height="80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght:900&amp;display=swap');
-    </style>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="'Orbitron', 'Courier New', monospace" font-size="48" font-weight="900"
-        fill="#FF2D20" letter-spacing="4">
-    SOFTKO CORP.
-  </text>
-</svg>
+<img src="logo.svg" alt="SOFTKO CORP." width="600" />
 
 ### Innovating Software Solutions from the Heart of Canada
 
