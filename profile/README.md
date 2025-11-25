@@ -109,7 +109,7 @@ We're always excited to work on challenging projects and innovative ideas. Wheth
 
 <div align="center">
 
-<img src="canadian-flag.svg" alt="Proudly Canadian" width="80" /> **Proudly Canadian**
+![Proudly Canadian]([https://img.shields.io/badge/PostgreSQL-18-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/Proudly-Canadian-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3Lnc%20-%20zLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjRkYwMDAwIi8+PHJlY3QgeD0iNyIgd2lkdGg9IjYiIGhlaWdodD0iMTAiIGZpbGw9IiNGRkZGRkYiLz48L3N2Zz4=))
 
 *Building the future, one commit at a time*
 
