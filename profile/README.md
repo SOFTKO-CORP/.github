@@ -1,4 +1,4 @@
-# Welcome to SOFTKO-CORP
+# Welcome
 
 <div align="center">
 
@@ -22,15 +22,15 @@
 
 We specialize in:
 
-- ** Custom Web Applications** - Tailored solutions built with modern frameworks
-- ** Enterprise Software** - Scalable systems designed for growth
-- ** Secure Solutions** - Security-first approach in everything we build
-- ** Cloud Architecture** - Modern cloud-native applications
-- ** Full-Stack Development** - End-to-end software solutions
+- Custom Web Applications** - Tailored solutions built with modern frameworks
+- Enterprise Software** - Scalable systems designed for growth
+- Secure Solutions** - Security-first approach in everything we build
+- Cloud Architecture** - Modern cloud-native applications
+- Full-Stack Development** - End-to-end software solutions
 
 ## Technology Stack
 
-We work with cutting-edge technologies to deliver exceptional results:
+We work with mainstream technologies to deliver exceptional results:
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-8.4+-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -54,19 +54,6 @@ We work with cutting-edge technologies to deliver exceptional results:
 ![Pest](https://img.shields.io/badge/Pest-4.x-8B5CF6?style=flat-square)
 ![Pint](https://img.shields.io/badge/Pint-Code%20Style-F9322C?style=flat-square)
 ![Telescope](https://img.shields.io/badge/Telescope-Debug-4FC08D?style=flat-square)
-
-## Featured Projects
-
-### Job Agreement Platform
-A comprehensive Laravel 12 application for managing employment agreements with advanced features:
-- Multi-tenant architecture with organization-based access control
-- Role-based permissions system
-- Real-time notifications via WebSockets
-- OAuth2 API authentication
-- Advanced admin panel powered by Filament
-
-**Tech Stack:**
-[Explore the Repository →](https://github.com/SOFTKO-CORP/job-agreement)
 
 ---
 
@@ -121,8 +108,6 @@ We're always excited to work on challenging projects and innovative ideas. Wheth
 ---
 
 <div align="center">
-
-**Made with <img src="https://skillicons.dev/icons?i=brain" width="16" /> in Canada**
 
 ![Proudly Canadian](https://img.shields.io/badge/Proudly-Canadian-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjEwIiBmaWxsPSIjRkYwMDAwIi8+PHJlY3QgeD0iNyIgd2lkdGg9IjYiIGhlaWdodD0iMTAiIGZpbGw9IiNGRkZGRkYiLz48L3N2Zz4=)
 
