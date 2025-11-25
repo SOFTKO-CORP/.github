@@ -4,7 +4,7 @@
 
 <img src="logo.svg" alt="SOFTKO CORP." width="600" />
 
-### Innovating Software Solutions from the Heart of Canada
+<img src="tagline.svg" alt="Powered by AI. Stabilized by Human. Rewarded with Maple-Level Respect." width="800" />
 
 [![Website](https://img.shields.io/badge/Website-softko.ca-blue?style=for-the-badge)](https://softko.ca) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/softko-corp) &nbsp;
